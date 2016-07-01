@@ -1,0 +1,24 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* What new skills have you learned?
+1. Read the instruction before working on a task.
+    I skipped the project instruction and jumped in to coding directly. However, I am not familiar with HTML tags, so I have to ask Google for getting correct tag name. But the instruction provides the hints for getting the tag names needed. If I read it carefully, then I may save some of my time on Google. By the way, does it count as a "new skill"?
+2. Double check before submit the project, always
+    I wrote the rejections and ready to submit the project. Before I really submit it, I found that there was a typo in my HTML file. I type "sub" instead of "sup" in the footnote session. Lucky, I noticed this typo before submission. This reminds me alway check the codes before submission.
+
+* What has been easy?
+Everything. I have coding experience and basic idea of HTML. All the materials in this lesson are not new to me.
+
+* What has been difficult?
+Some of the tags needed in the project are new to me. I don't know what should I use to make the layout as I wanted, such as "superscript". I even don't know the term "superscript" before the project.
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+Google helps me. :-)
